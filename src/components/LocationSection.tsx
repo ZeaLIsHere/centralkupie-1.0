@@ -28,8 +28,8 @@ const LocationSection = () => {
             Visit Us
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Find us in the heart of the city. We're open every day, ready to
-            serve you the best coffee experience.
+            Temukan kami di hati kota anda. Kami buka setiap hari, siap untuk
+            menyajikan pengalaman kopi terbaik untuk anda.
           </p>
         </div>
 
