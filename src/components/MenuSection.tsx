@@ -9,13 +9,13 @@ const menuItems = [
   },
   {
     icon: Sandwich,
-    title: "Makanan Ringan",
-    description: "Makanan ringan seperti kue basah dan jajanan tradisional",
+    title: "Sarapan Pagi",
+    description: "Makanan untuk sarapan seperti Nasi Gurih dan Lontong Sayur",
   },
   {
     icon: Cake,
-    title: "Pastries & Desserts",
-    description: "Freshly baked cakes, cookies, dan sweet treats",
+    title: "Makanan Ringan",
+    description: "Kue basah, kue kering, dan jajanan tradisional lainnya",
   },
 ];
 
